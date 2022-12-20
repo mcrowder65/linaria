@@ -1,5 +1,12 @@
 # Change Log
 
+## 4.1.11
+
+### Patch Changes
+
+- Updated dependencies [77bcf2e7]
+  - @linaria/server@4.1.0
+
 ## 4.1.10
 
 ### Patch Changes
